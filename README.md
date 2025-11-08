@@ -7,7 +7,6 @@ A simple, fast, and accurate Python tool to extract key features from video file
 ### 1. Clone the Repository
 First, get the code by cloning the repository to your local machine.
 ```bash
-# Replace the URL with the actual repository URL
 git clone https://github.com/grazierShahid/Video-Feature-Extraction.git
 cd Video-Feature-Extraction
 ```
